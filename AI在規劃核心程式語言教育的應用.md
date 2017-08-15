@@ -19,3 +19,5 @@
 
 # 參考資料  
 - [Edtech: Technology is transforming what happens when a child goes to school](http://www.economist.com/news/briefing/21725285-reformers-are-using-new-software-personalise-learning-technology-transforming-what-happens)
+
+- Levitt, Steven D., John A. List, Susanne Neckermann, and Sally Sadoff. "The behavioralist goes to school: Leveraging behavioral economics to improve educational performance." American Economic Journal: Economic Policy 8, no. 4 (2016): 183-219.
